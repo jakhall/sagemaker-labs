@@ -108,7 +108,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 11. Well done if you made it this far, we've completed the lab. Hopefully, you have an understanding of how we can create/modify these pipelines in order to train and deploy models using AWS Sagemaker. You may notice the outputs are far from accurate using this model, the original data was reviews of musical instruments and don't apply well to the scripts. If you want, try to modify the preprocessing.py file to train the model on better data, we can also add additional steps to the pipeline for evaluation before deploying. When you're finished feel free to delete the endpoint, or set the status of all model versions to "rejected".
 
-##Outro 
+## Notes
 
 If you have questions or issues with any of the above, feel free to contact me: jak.hall@3gi.co.uk.
      
