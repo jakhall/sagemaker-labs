@@ -57,7 +57,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-6. If the build and execution is successful we should be able to see the following from the project > piplelines tab. The video should demonstrate how to access this view. 
+6. If the build and execution is successful we should be able to see the following from the Project > Piplelines tab. (The video should demonstrate how to access this view).
 
 <br>
 
