@@ -1,7 +1,7 @@
 # BlazingText ML Pipeline
 
 
-##Introduction
+## Introduction
 
 Sagemaker Pipelines is a CI/CD solution for ML projects. It allows management of various workflows using custom or pre-trained ML models. 
 
@@ -11,7 +11,7 @@ https://youtu.be/Hvz2GGU3Z8g?si=JcNnMp5ORxGzG0Ge
 
 You can read more about BlazingText here along with other models provided by Sagemaker: https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html 
 
-##Lab Instructions
+## Lab Instructions
 
 ![Screenshot_1png](https://github.com/jakhall/sagemaker-labs/assets/23346546/c3291e10-227d-42e6-9ea7-7c69b62d5447)
 
