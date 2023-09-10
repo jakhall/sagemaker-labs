@@ -18,7 +18,8 @@ You can read more about BlazingText here along with other models provided by Sag
 
 ![Screenshot_2](https://github.com/jakhall/sagemaker-labs/assets/23346546/7987c279-1abf-4675-8e37-e0752d1144b3)
 
-![Screenshot_3 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/47e031b7-fcd9-4ac0-81c4-6bde6db2492c)
+
+![Screenshot_3 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/ea290a88-3a13-4cb2-a540-b55830967146)
 
 
 ![Screenshot_4](https://github.com/jakhall/sagemaker-labs/assets/23346546/99fe7cce-4e2c-4082-beeb-92a37f4f72ba)
