@@ -9,7 +9,7 @@ Watch the following video to get started creating a new project, training a simp
 
 https://youtu.be/Hvz2GGU3Z8g?si=JcNnMp5ORxGzG0Ge
 
-You can read more about BlazingText here along with other models provided by Sagemaker:
+You can read more about BlazingText here, along with other models provided by Sagemaker:
 
 https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html 
 
