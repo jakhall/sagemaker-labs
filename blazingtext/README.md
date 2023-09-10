@@ -1,4 +1,4 @@
-# BlazingText ML Pipeline
+# Sagemaker ML Pipeline BlazingText Lab
 
 
 ## Introduction
