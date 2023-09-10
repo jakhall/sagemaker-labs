@@ -86,11 +86,11 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 9. If we select our endpoint from the Sagemaker studio menu, it will display additional information and allow us to test inference by sending in some example queries. Here's a couple examples to try:
 
-{"instances": ["The worst guitar strings, very bad, don't buy."]}
+    {"instances": ["The worst guitar strings, very bad, don't buy."]}
 
-{"instances": ["This is a great keyboard, keys are high quality!"]}
+    {"instances": ["This is a great keyboard, keys are high quality!"]}
 
-(Note: The model was trained on reviews ranging from 1 - 5 stars e.g. An output of _label_1 is a 1 star review and an output of _label_5 is a 5-star review).
+    (Note: The model was trained on reviews ranging from 1 - 5 stars e.g. An output of _label_1 is a 1 star review and an output of _label_5 is a 5-star review).
 
 <br>
 
