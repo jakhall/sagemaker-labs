@@ -65,7 +65,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-7. Our model has now been trained, and is waiting for review to deploy to an endpoint. To trigger this go to the project > model groups tab and select the model. Different versions of our model will appear here, there should be two. The first is the original abolone model, and the second is our BlazingText model. We need to approve the most recent version, this will trigger the deployment process. This should take several minutes to complete. In the sameway as before we can monitor the endpoint deployment from "CodePipeline" and "CloudFormation" within AWS. If deployment was successful "staging" should appear next to the version we approved.
+7. Our model has now been trained, and is waiting for review to deploy to an endpoint. To trigger this go to the Projects > Model Groups tab and select the model. Different versions of our model will appear here - there should be two. The first is the original abolone model, and the second is our BlazingText model. We need to approve the most recent version, this will trigger the deployment process. This should take several minutes to complete. In the sameway as before we can monitor the endpoint deployment from "CodePipeline" and "CloudFormation" within AWS. If deployment was successful "staging" should appear next to the version we approved.
 
 <br>
 
