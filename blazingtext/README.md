@@ -21,7 +21,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
  <br>  
    
-![Screenshot_1png](https://github.com/jakhall/sagemaker-labs/assets/23346546/c3291e10-227d-42e6-9ea7-7c69b62d5447)
+   ![Screenshot_1png](https://github.com/jakhall/sagemaker-labs/assets/23346546/c3291e10-227d-42e6-9ea7-7c69b62d5447)
 
 <br>
 
@@ -29,7 +29,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_2](https://github.com/jakhall/sagemaker-labs/assets/23346546/7987c279-1abf-4675-8e37-e0752d1144b3)
+   ![Screenshot_2](https://github.com/jakhall/sagemaker-labs/assets/23346546/7987c279-1abf-4675-8e37-e0752d1144b3)
 
 <br>
 
@@ -37,7 +37,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
    
-![Screenshot_4](https://github.com/jakhall/sagemaker-labs/assets/23346546/99fe7cce-4e2c-4082-beeb-92a37f4f72ba)
+   ![Screenshot_4](https://github.com/jakhall/sagemaker-labs/assets/23346546/99fe7cce-4e2c-4082-beeb-92a37f4f72ba)
 
 <br>
 
@@ -45,7 +45,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_3 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/ea290a88-3a13-4cb2-a540-b55830967146)
+   ![Screenshot_3 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/ea290a88-3a13-4cb2-a540-b55830967146)
 
 <br>
 
@@ -53,7 +53,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_4 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/0975db52-cb5a-412f-b3d5-2b90816bd75d)
+   ![Screenshot_4 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/0975db52-cb5a-412f-b3d5-2b90816bd75d)
 
 <br>
 
@@ -61,7 +61,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_5](https://github.com/jakhall/sagemaker-labs/assets/23346546/73938e49-9af5-4ef0-952b-395ca4229b49)
+   ![Screenshot_5](https://github.com/jakhall/sagemaker-labs/assets/23346546/73938e49-9af5-4ef0-952b-395ca4229b49)
 
 <br>
 
@@ -69,7 +69,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_5 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/106d753e-55fc-4118-aaea-b434687f5daf)
+   ![Screenshot_5 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/106d753e-55fc-4118-aaea-b434687f5daf)
 
 <br>
 
@@ -77,10 +77,10 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_6](https://github.com/jakhall/sagemaker-labs/assets/23346546/7a482dd5-73ba-4ec0-8e28-a7dbaa81fa96)
+   ![Screenshot_6](https://github.com/jakhall/sagemaker-labs/assets/23346546/7a482dd5-73ba-4ec0-8e28-a7dbaa81fa96)
 
 
-![Screenshot_6 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/73ba8537-f601-4c24-85db-71ec41f1f4ec)
+   ![Screenshot_6 5](https://github.com/jakhall/sagemaker-labs/assets/23346546/73ba8537-f601-4c24-85db-71ec41f1f4ec)
 
 <br>
 
@@ -94,7 +94,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_7](https://github.com/jakhall/sagemaker-labs/assets/23346546/861b28c0-14ce-4fab-9555-8da842498ee1)
+   ![Screenshot_7](https://github.com/jakhall/sagemaker-labs/assets/23346546/861b28c0-14ce-4fab-9555-8da842498ee1)
 
 <br>
 
@@ -102,7 +102,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-![Screenshot_8](https://github.com/jakhall/sagemaker-labs/assets/23346546/cd4b276f-a003-48b5-a57c-aa48956e595f)
+   ![Screenshot_8](https://github.com/jakhall/sagemaker-labs/assets/23346546/cd4b276f-a003-48b5-a57c-aa48956e595f)
 
 <br>
 
