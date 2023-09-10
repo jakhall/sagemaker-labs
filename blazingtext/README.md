@@ -7,7 +7,7 @@ Sagemaker Pipelines is a CI/CD solution for ML projects. It allows management of
 
 Watch the following video to get started creating a new project, training a simple model and deploying it on an endpoint. It will walkthrough setting up the abalone sample project that will be used for the BlazingText model.
 
-https://youtu.be/Hvz2GGU3Z8g?si=JcNnMp5ORxGzG0Ge
+https://www.youtube.com/watch?v=Hvz2GGU3Z8g
 
 You can read more about BlazingText here, along with other models provided by Sagemaker:
 
