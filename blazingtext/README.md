@@ -15,6 +15,8 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 ## Lab Instructions
 
+<br>
+
 1. If it hasn't been done already, create a local clone of the ModelBuild repository from the Projects > Repositories menu. You can then access the directory from the "File Browser" menu on the far left side.
 
  <br>  
