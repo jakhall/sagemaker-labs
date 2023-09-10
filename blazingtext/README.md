@@ -41,7 +41,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-4. We now want to commit out local changes to the ModelBuild repository. We have to go to the Git menu on the left hand side. From here we have to stage the changes, this should be "pipeline.py", "preprocessing.py" and "sentiment-analysis.ipynb". Then press commit and lastly the publish button on the top right of the left-hand side menu. This will trigger the build and execution of the associated pipeline. 
+4. We now want to commit out local changes to the ModelBuild repository. We have to go to the Git menu on the left hand side. From here we have to stage the changes, this should be "pipeline.py", "preprocessing.py" and "sentiment-analysis.ipynb". Then press commit and lastly publish on the top right of the left-hand side menu. This will trigger the build and execution of the associated pipeline. 
 
 <br>
 
