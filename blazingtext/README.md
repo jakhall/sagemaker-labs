@@ -25,7 +25,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
 
 <br>
 
-2. Copy and paste the contents of pipelines folder within this repo into the pipelines folder of the ModelBuild directory.  
+2. Copy and paste the contents of pipelines/abalone folder within this repo into the pipelines/abalone folder of the ModelBuild directory.  
 
 <br>
 
